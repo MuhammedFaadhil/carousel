@@ -105,3 +105,29 @@ a {
     color-scheme: dark;
   }
 }
+
+/* --------------------------- */
+
+.coro-img {
+  /* height: 80%;
+  width: 80%;
+  align-items: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 600px;
+  height: 400px; */
+
+  
+}
+
+.btn-left {
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.btn-right {
+  padding: 10px;
+  margin: 10px;
+}
